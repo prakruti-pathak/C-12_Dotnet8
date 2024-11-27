@@ -1,0 +1,14 @@
+C:\Repos\DotNet8&C#12\DotNet8&C#12\bin\Debug\net8.0\DotNet8&C#12.exe
+C:\Repos\DotNet8&C#12\DotNet8&C#12\bin\Debug\net8.0\DotNet8&C#12.deps.json
+C:\Repos\DotNet8&C#12\DotNet8&C#12\bin\Debug\net8.0\DotNet8&C#12.runtimeconfig.json
+C:\Repos\DotNet8&C#12\DotNet8&C#12\bin\Debug\net8.0\DotNet8&C#12.dll
+C:\Repos\DotNet8&C#12\DotNet8&C#12\bin\Debug\net8.0\DotNet8&C#12.pdb
+C:\Repos\DotNet8&C#12\DotNet8&C#12\obj\Debug\net8.0\DotNet8&C#12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\DotNet8&C#12\DotNet8&C#12\obj\Debug\net8.0\DotNet8&C#12.AssemblyInfoInputs.cache
+C:\Repos\DotNet8&C#12\DotNet8&C#12\obj\Debug\net8.0\DotNet8&C#12.AssemblyInfo.cs
+C:\Repos\DotNet8&C#12\DotNet8&C#12\obj\Debug\net8.0\DotNet8&C#12.csproj.CoreCompileInputs.cache
+C:\Repos\DotNet8&C#12\DotNet8&C#12\obj\Debug\net8.0\DotNet8&C#12.dll
+C:\Repos\DotNet8&C#12\DotNet8&C#12\obj\Debug\net8.0\refint\DotNet8&C#12.dll
+C:\Repos\DotNet8&C#12\DotNet8&C#12\obj\Debug\net8.0\DotNet8&C#12.pdb
+C:\Repos\DotNet8&C#12\DotNet8&C#12\obj\Debug\net8.0\DotNet8&C#12.genruntimeconfig.cache
+C:\Repos\DotNet8&C#12\DotNet8&C#12\obj\Debug\net8.0\ref\DotNet8&C#12.dll

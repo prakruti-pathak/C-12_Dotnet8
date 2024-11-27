@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\DotNet8\u0026C#12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\inlinearraydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\inlinearraydemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\interceptors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\interceptors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\dotnet8\u0026c#12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\dotnet8\u0026c#12.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\refonlyparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\refonlyparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\experimentalattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\experimentalattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\primaryconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\primaryconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\collectionexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\collectionexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\defaultlambdaparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\defaultlambdaparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\aliastype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\aliastype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InlineArrayDemo.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\InlineArrayDemo.cs",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\InlineArrayDemo.cs",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\InlineArrayDemo.cs",
+              "RelativeToolTip": "DotNet8\u0026C#12\\InlineArrayDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:41:10.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Interceptors.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\Interceptors.cs",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\Interceptors.cs",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\Interceptors.cs",
+              "RelativeToolTip": "DotNet8\u0026C#12\\Interceptors.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:59:16.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefOnlyParameters.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\RefOnlyParameters.cs",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\RefOnlyParameters.cs",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\RefOnlyParameters.cs",
+              "RelativeToolTip": "DotNet8\u0026C#12\\RefOnlyParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T11:46:53.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExperimentalAttribute.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\ExperimentalAttribute.cs",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\ExperimentalAttribute.cs",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\ExperimentalAttribute.cs",
+              "RelativeToolTip": "DotNet8\u0026C#12\\ExperimentalAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:30:50.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DefaultLambdaParameters.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\DefaultLambdaParameters.cs",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\DefaultLambdaParameters.cs",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\DefaultLambdaParameters.cs",
+              "RelativeToolTip": "DotNet8\u0026C#12\\DefaultLambdaParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T15:11:52.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CollectionExpressions.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\CollectionExpressions.cs",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\CollectionExpressions.cs",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\CollectionExpressions.cs",
+              "RelativeToolTip": "DotNet8\u0026C#12\\CollectionExpressions.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T12:13:12.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrimaryConstructor.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\PrimaryConstructor.cs",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\PrimaryConstructor.cs",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\PrimaryConstructor.cs",
+              "RelativeToolTip": "DotNet8\u0026C#12\\PrimaryConstructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:46:28.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DotNet8\u0026C#12.csproj",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj",
+              "RelativeToolTip": "DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-19T06:04:39.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AliasType.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\AliasType.cs",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\AliasType.cs",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\AliasType.cs",
+              "RelativeToolTip": "DotNet8\u0026C#12\\AliasType.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:25:07.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\Program.cs",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\Program.cs",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\Program.cs",
+              "RelativeToolTip": "DotNet8\u0026C#12\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T05:23:34.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
