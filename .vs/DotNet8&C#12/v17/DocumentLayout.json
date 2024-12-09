@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Repos\\DotNet8\u0026C#12\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\dataannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\dataannotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|c:\\repos\\dotnet8\u0026c#12\\dotnet8\u0026c#12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{00E896A7-5FAF-4B12-957A-F11C3E68B63E}|DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj|solutionrelative:dotnet8\u0026c#12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -50,24 +54,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InlineArrayDemo.cs",
-              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\InlineArrayDemo.cs",
-              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\InlineArrayDemo.cs",
-              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\InlineArrayDemo.cs",
-              "RelativeToolTip": "DotNet8\u0026C#12\\InlineArrayDemo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "DataAnnotation.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\DataAnnotation.cs",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\DataAnnotation.cs",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\DataAnnotation.cs",
+              "RelativeToolTip": "DotNet8\u0026C#12\\DataAnnotation.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T17:41:10.336Z",
+              "WhenOpened": "2024-12-09T10:51:00.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Interceptors.cs",
               "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\Interceptors.cs",
               "RelativeDocumentMoniker": "DotNet8\u0026C#12\\Interceptors.cs",
@@ -79,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "RefOnlyParameters.cs",
               "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\RefOnlyParameters.cs",
               "RelativeDocumentMoniker": "DotNet8\u0026C#12\\RefOnlyParameters.cs",
@@ -91,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ExperimentalAttribute.cs",
               "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\ExperimentalAttribute.cs",
               "RelativeDocumentMoniker": "DotNet8\u0026C#12\\ExperimentalAttribute.cs",
@@ -103,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "DefaultLambdaParameters.cs",
               "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\DefaultLambdaParameters.cs",
               "RelativeDocumentMoniker": "DotNet8\u0026C#12\\DefaultLambdaParameters.cs",
@@ -115,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CollectionExpressions.cs",
               "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\CollectionExpressions.cs",
               "RelativeDocumentMoniker": "DotNet8\u0026C#12\\CollectionExpressions.cs",
@@ -127,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "PrimaryConstructor.cs",
               "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\PrimaryConstructor.cs",
               "RelativeDocumentMoniker": "DotNet8\u0026C#12\\PrimaryConstructor.cs",
@@ -139,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DotNet8\u0026C#12.csproj",
               "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj",
               "RelativeDocumentMoniker": "DotNet8\u0026C#12\\DotNet8\u0026C#12.csproj",
@@ -151,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AliasType.cs",
               "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\AliasType.cs",
               "RelativeDocumentMoniker": "DotNet8\u0026C#12\\AliasType.cs",
@@ -163,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\Program.cs",
               "RelativeDocumentMoniker": "DotNet8\u0026C#12\\Program.cs",
@@ -173,6 +177,18 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-19T05:23:34.484Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InlineArrayDemo.cs",
+              "DocumentMoniker": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\InlineArrayDemo.cs",
+              "RelativeDocumentMoniker": "DotNet8\u0026C#12\\InlineArrayDemo.cs",
+              "ToolTip": "C:\\Repos\\DotNet8\u0026C#12\\DotNet8\u0026C#12\\InlineArrayDemo.cs",
+              "RelativeToolTip": "DotNet8\u0026C#12\\InlineArrayDemo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T17:41:10.336Z"
             }
           ]
         }
